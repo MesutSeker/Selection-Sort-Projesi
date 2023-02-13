@@ -1,7 +1,7 @@
 # Selection-Sort-Projesi
 Selection Sort Projesi
 
-[22,27,16,2,18,6] Rakamların en küçük elemanını 1. sıralamaya yerleştir. [2,27,16,22,18,6] Rakamların 2. küçük sayısını 2. sıraya yerleştir [2,6,16,22,18,27] Rakamların 3.küçük sayısını 3.sıraya yerleştir (Raslantı yerinde olduğu için diğer adıma herhangi bir işlem yapılmadan geçilir.) Rakamların 4.küçük sayısını 4. sıraya yerleştir. [2,6,16,18,22,27]
+[22,27,16,2,18,6] Rakamların en küçük elemanını 1. sıralamaya yerleştir. [2,27,16,22,18,6] Rakamların 2. küçük sayısını 2. sıraya yerleştir [2,6,16,22,18,27] Rakamların 3. küçük sayısını 3. sıraya yerleştir (Raslantı yerinde olduğu için diğer adıma herhangi bir işlem yapılmadan geçilir.) Rakamların 4. küçük sayısını 4. sıraya yerleştir. [2,6,16,18,22,27]
 
 Big-O=(n^2)
 
